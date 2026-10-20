@@ -42,6 +42,29 @@ its simpler, lighter houses may suit some scenes, and so I can compare the two.
 **Which one should I use?** Start with **generator 1**. Use generator 2 only if you
 want the plain classic look and lighter meshes.
 
+## Pictures
+
+**Map of the same town, made by each generator** (seed 42, 20 patches, walls, river, stone bridges):
+
+| Generator 1 | Generator 2 |
+|---|---|
+| ![Generator 1 map](generator-1/docs/images/example_map.jpg) | ![Generator 2 map](generator-2/docs/images/example_map.jpg) |
+
+**Generator 1 houses: the storybook look.** Cream walls, dark timber, curved roofs with flared eaves,
+a cross gable on the front, and teal or terracotta roofs:
+
+![Generator 1 storybook houses](generator-1/docs/images/storybook_now.jpg)
+
+**Generator 1 villages: fenced backyards with gates.** Three small test villages (a plaza, a street, a lone farm):
+
+![Generator 1 villages and yards](generator-1/docs/images/audit_town.jpg)
+
+![Generator 1 village close up](generator-1/docs/images/yards.jpg)
+
+**The 50 ready-made village houses** (both generators, from IRCSS's French Houses):
+
+![All 50 houses](generator-1/docs/images/french_houses_contact.jpg)
+
 ## How to use
 
 You need [Rust](https://rustup.rs) (a recent stable version). Run the commands
