@@ -44,6 +44,11 @@ want the plain classic look and lighter meshes.
 
 ## Pictures
 
+**A walled town with a river, roads and bridges** (generator 1, seed 3, 38 districts, 536 buildings),
+drawn as an angled 2.5D map from the town data:
+
+![Walled town with river and bridges](docs/images/river_town_map.jpg)
+
 **Map of the same town, made by each generator** (seed 42, 20 patches, walls, river, stone bridges):
 
 | Generator 1 | Generator 2 |
