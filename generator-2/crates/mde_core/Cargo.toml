@@ -1,0 +1,13 @@
+[package]
+name = "mde_core"
+description = "Shared data model, deterministic RNG and 2D polygon helpers for the Midearth generators."
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
+glam.workspace = true
+serde.workspace = true
+
+[dev-dependencies]
+serde_json.workspace = true

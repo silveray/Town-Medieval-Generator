@@ -1,0 +1,5 @@
+/target
+/out
+*.blend1
+__pycache__/
+.venv/

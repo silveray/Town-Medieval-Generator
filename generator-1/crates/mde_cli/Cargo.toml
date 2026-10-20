@@ -1,0 +1,18 @@
+[package]
+name = "mde_cli"
+description = "Command-line front end: generate towns and dwellings to JSON, SVG and glTF."
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[[bin]]
+name = "mde"
+path = "src/main.rs"
+
+[dependencies]
+mde_core.workspace = true
+mde_town = { path = "../mde_town" }
+mde_dwelling = { path = "../mde_dwelling" }
+mde_mesh = { path = "../mde_mesh" }
+mde_nav = { path = "../mde_nav" }
+serde_json.workspace = true

@@ -1,0 +1,4250 @@
+[
+ {
+  "file": "house_00.glb",
+  "seed": 18559,
+  "floors": 2,
+  "footprint": [
+   5.72,
+   7.37
+  ],
+  "bounds_min": [
+   -3.849,
+   -0.236,
+   -4.452
+  ],
+  "bounds_max": [
+   3.827,
+   6.636,
+   4.463
+  ],
+  "height": 6.636,
+  "triangles": 25152,
+  "front": "+X",
+  "door": [
+   2.716,
+   0.937,
+   -0.398
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.324,
+   2.345
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": [
+   2.87,
+   1.27
+  ],
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 1023124
+ },
+ {
+  "file": "house_01.glb",
+  "seed": 50407,
+  "floors": 2,
+  "footprint": [
+   5.23,
+   7.46
+  ],
+  "bounds_min": [
+   -3.589,
+   -0.233,
+   -4.524
+  ],
+  "bounds_max": [
+   3.582,
+   6.72,
+   4.522
+  ],
+  "height": 6.72,
+  "triangles": 23947,
+  "front": "+X",
+  "door": [
+   2.456,
+   0.927,
+   0.494
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.424,
+   2.321
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": [
+   2.63,
+   1.15
+  ],
+  "colors": {
+   "Plaster": [
+    0.78,
+    0.77,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.8,
+    0.77,
+    0.69,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 983928
+ },
+ {
+  "file": "house_02.glb",
+  "seed": 68290,
+  "floors": 3,
+  "footprint": [
+   5.3,
+   10.15
+  ],
+  "bounds_min": [
+   -3.158,
+   -0.208,
+   -5.403
+  ],
+  "bounds_max": [
+   3.15,
+   8.053,
+   5.399
+  ],
+  "height": 8.053,
+  "triangles": 19773,
+  "front": "+X",
+  "door": [
+   2.525,
+   0.844,
+   2.921
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "hall",
+  "door_size": [
+   1.362,
+   2.104
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.8,
+    0.71,
+    0.55,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "RoofTile": [
+    0.6,
+    0.37,
+    0.27,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 805848
+ },
+ {
+  "file": "house_03.glb",
+  "seed": 77020,
+  "floors": 4,
+  "footprint": [
+   7.01,
+   5.16
+  ],
+  "bounds_min": [
+   -3.923,
+   -0.232,
+   -2.88
+  ],
+  "bounds_max": [
+   3.913,
+   10.301,
+   3.066
+  ],
+  "height": 10.301,
+  "triangles": 17534,
+  "front": "+X",
+  "door": [
+   3.37,
+   0.918,
+   -1.024
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.413,
+   2.299
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.78,
+    0.77,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "RoofTile": [
+    0.44,
+    0.26,
+    0.2,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 682044
+ },
+ {
+  "file": "house_04.glb",
+  "seed": 79971,
+  "floors": 3,
+  "footprint": [
+   6.61,
+   9.78
+  ],
+  "bounds_min": [
+   -3.787,
+   -0.239,
+   -5.375
+  ],
+  "bounds_max": [
+   3.842,
+   8.707,
+   5.407
+  ],
+  "height": 8.707,
+  "triangles": 24314,
+  "front": "+X",
+  "door": [
+   3.154,
+   0.951,
+   0.578
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "manor",
+  "door_size": [
+   1.003,
+   2.379
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.35,
+    0.36,
+    0.39,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.31,
+    0.24,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 938584
+ },
+ {
+  "file": "house_05.glb",
+  "seed": 65363,
+  "floors": 2,
+  "footprint": [
+   5.83,
+   8.34
+  ],
+  "bounds_min": [
+   -3.528,
+   -0.247,
+   -4.62
+  ],
+  "bounds_max": [
+   3.532,
+   6.716,
+   4.629
+  ],
+  "height": 6.716,
+  "triangles": 16098,
+  "front": "+X",
+  "door": [
+   2.785,
+   0.981,
+   0.198
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.21,
+   2.456
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 645344
+ },
+ {
+  "file": "house_06.glb",
+  "seed": 99266,
+  "floors": 3,
+  "footprint": [
+   6.84,
+   9.66
+  ],
+  "bounds_min": [
+   -3.878,
+   -0.224,
+   -5.342
+  ],
+  "bounds_max": [
+   3.961,
+   8.542,
+   5.412
+  ],
+  "height": 8.542,
+  "triangles": 24491,
+  "front": "+X",
+  "door": [
+   3.297,
+   0.889,
+   -1.092
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "manor",
+  "door_size": [
+   1.252,
+   2.227
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.55,
+    0.31,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.4,
+    0.19,
+    0.15,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 950588
+ },
+ {
+  "file": "house_07.glb",
+  "seed": 62779,
+  "floors": 4,
+  "footprint": [
+   6.27,
+   9.68
+  ],
+  "bounds_min": [
+   -3.994,
+   -0.214,
+   -5.506
+  ],
+  "bounds_max": [
+   3.994,
+   9.667,
+   5.256
+  ],
+  "height": 9.667,
+  "triangles": 22192,
+  "front": "+X",
+  "door": [
+   3.015,
+   0.849,
+   2.599
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "manor",
+  "door_size": [
+   1.111,
+   2.127
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.85,
+    0.78,
+    0.63,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.44,
+    0.33,
+    0.26,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.28,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 901836
+ },
+ {
+  "file": "house_08.glb",
+  "seed": 46758,
+  "floors": 3,
+  "footprint": [
+   6.44,
+   8.34
+  ],
+  "bounds_min": [
+   -4.25,
+   -0.222,
+   -5.032
+  ],
+  "bounds_max": [
+   4.267,
+   8.229,
+   4.762
+  ],
+  "height": 8.229,
+  "triangles": 20151,
+  "front": "+X",
+  "door": [
+   3.084,
+   0.88,
+   -2.527
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "manor",
+  "door_size": [
+   1.109,
+   2.205
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.8,
+    0.71,
+    0.55,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.32,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Door": [
+    0.4,
+    0.19,
+    0.15,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 809260
+ },
+ {
+  "file": "house_09.glb",
+  "seed": 82401,
+  "floors": 2,
+  "footprint": [
+   6.24,
+   8.28
+  ],
+  "bounds_min": [
+   -4.141,
+   -0.25,
+   -5.027
+  ],
+  "bounds_max": [
+   3.827,
+   7.304,
+   5.015
+  ],
+  "height": 7.304,
+  "triangles": 27538,
+  "front": "+X",
+  "door": [
+   1.653,
+   0.989,
+   -3.345
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.095,
+   2.477
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": [
+   2.13,
+   1.34
+  ],
+  "colors": {
+   "Plaster": [
+    0.85,
+    0.78,
+    0.63,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.55,
+    0.31,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.4,
+    0.19,
+    0.15,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 1100360
+ },
+ {
+  "file": "house_10.glb",
+  "seed": 17127,
+  "floors": 2,
+  "footprint": [
+   5.39,
+   6.83
+  ],
+  "bounds_min": [
+   -3.387,
+   -0.207,
+   -3.687
+  ],
+  "bounds_max": [
+   3.392,
+   6.59,
+   3.956
+  ],
+  "height": 6.59,
+  "triangles": 18523,
+  "front": "+X",
+  "door": [
+   2.535,
+   0.844,
+   1.387
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.093,
+   2.103
+  ],
+  "ivy": true,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.85,
+    0.78,
+    0.63,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 760728
+ },
+ {
+  "file": "house_11.glb",
+  "seed": 64397,
+  "floors": 2,
+  "footprint": [
+   5.24,
+   10.32
+  ],
+  "bounds_min": [
+   -3.404,
+   -0.215,
+   -5.815
+  ],
+  "bounds_max": [
+   3.402,
+   6.869,
+   5.825
+  ],
+  "height": 6.869,
+  "triangles": 21027,
+  "front": "+X",
+  "door": [
+   2.475,
+   0.857,
+   1.804
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "hall",
+  "door_size": [
+   1.326,
+   2.144
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.72,
+    0.6,
+    0.47,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.32,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Door": [
+    0.4,
+    0.19,
+    0.15,
+    1.0
+   ],
+   "WindowFrame": [
+    0.8,
+    0.77,
+    0.69,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 818020
+ },
+ {
+  "file": "house_12.glb",
+  "seed": 67211,
+  "floors": 4,
+  "footprint": [
+   5.77,
+   5.19
+  ],
+  "bounds_min": [
+   -3.507,
+   -0.238,
+   -3.095
+  ],
+  "bounds_max": [
+   3.503,
+   9.62,
+   3.203
+  ],
+  "height": 9.62,
+  "triangles": 17985,
+  "front": "+X",
+  "door": [
+   2.738,
+   0.944,
+   -1.53
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.295,
+   2.364
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.8,
+    0.71,
+    0.55,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.55,
+    0.31,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.4,
+    0.19,
+    0.15,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 703740
+ },
+ {
+  "file": "house_13.glb",
+  "seed": 36747,
+  "floors": 4,
+  "footprint": [
+   5.95,
+   5.17
+  ],
+  "bounds_min": [
+   -3.828,
+   -0.208,
+   -3.341
+  ],
+  "bounds_max": [
+   3.826,
+   10.376,
+   3.383
+  ],
+  "height": 10.376,
+  "triangles": 17231,
+  "front": "+X",
+  "door": [
+   2.838,
+   0.844,
+   -1.033
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.448,
+   2.104
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.4,
+    0.19,
+    0.15,
+    1.0
+   ],
+   "WindowFrame": [
+    0.28,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 670200
+ },
+ {
+  "file": "house_14.glb",
+  "seed": 5015,
+  "floors": 3,
+  "footprint": [
+   6.31,
+   10.7
+  ],
+  "bounds_min": [
+   -3.632,
+   -0.202,
+   -5.888
+  ],
+  "bounds_max": [
+   3.708,
+   8.771,
+   5.868
+  ],
+  "height": 8.771,
+  "triangles": 25389,
+  "front": "+X",
+  "door": [
+   3.034,
+   0.85,
+   1.804
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "hall",
+  "door_size": [
+   1.097,
+   2.101
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.5,
+    0.29,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.28,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 982656
+ },
+ {
+  "file": "house_15.glb",
+  "seed": 5939,
+  "floors": 4,
+  "footprint": [
+   6.2,
+   4.86
+  ],
+  "bounds_min": [
+   -3.559,
+   -0.22,
+   -2.864
+  ],
+  "bounds_max": [
+   3.561,
+   9.977,
+   2.962
+  ],
+  "height": 9.977,
+  "triangles": 19007,
+  "front": "+X",
+  "door": [
+   2.968,
+   0.869,
+   0.222
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.101,
+   2.177
+  ],
+  "ivy": true,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.78,
+    0.77,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 757284
+ },
+ {
+  "file": "house_16.glb",
+  "seed": 88597,
+  "floors": 2,
+  "footprint": [
+   4.67,
+   6.38
+  ],
+  "bounds_min": [
+   -2.998,
+   -0.202,
+   -3.697
+  ],
+  "bounds_max": [
+   3.0,
+   6.614,
+   3.773
+  ],
+  "height": 6.614,
+  "triangles": 18789,
+  "front": "+X",
+  "door": [
+   2.198,
+   0.849,
+   1.553
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.312,
+   2.102
+  ],
+  "ivy": true,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.8,
+    0.71,
+    0.55,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "Slate": [
+    0.32,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.31,
+    0.24,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 786924
+ },
+ {
+  "file": "house_17.glb",
+  "seed": 32175,
+  "floors": 2,
+  "footprint": [
+   4.41,
+   5.54
+  ],
+  "bounds_min": [
+   -2.544,
+   -0.241,
+   -3.25
+  ],
+  "bounds_max": [
+   2.549,
+   6.703,
+   3.257
+  ],
+  "height": 6.703,
+  "triangles": 10827,
+  "front": "+X",
+  "door": [
+   2.055,
+   0.954,
+   0.881
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.378,
+   2.391
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.3,
+    0.28,
+    0.25,
+    1.0
+   ],
+   "Slate": [
+    0.32,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 431264
+ },
+ {
+  "file": "house_18.glb",
+  "seed": 46854,
+  "floors": 3,
+  "footprint": [
+   5.01,
+   9.01
+  ],
+  "bounds_min": [
+   -3.151,
+   -0.22,
+   -5.327
+  ],
+  "bounds_max": [
+   3.173,
+   8.986,
+   5.338
+  ],
+  "height": 8.986,
+  "triangles": 21002,
+  "front": "+X",
+  "door": [
+   2.375,
+   0.876,
+   -1.285
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "hall",
+  "door_size": [
+   1.245,
+   2.192
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 807684
+ },
+ {
+  "file": "house_19.glb",
+  "seed": 10678,
+  "floors": 3,
+  "footprint": [
+   6.44,
+   9.8
+  ],
+  "bounds_min": [
+   -4.322,
+   -0.223,
+   -5.815
+  ],
+  "bounds_max": [
+   4.312,
+   8.071,
+   5.824
+  ],
+  "height": 8.071,
+  "triangles": 24544,
+  "front": "+X",
+  "door": [
+   3.099,
+   0.879,
+   -3.824
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "hall",
+  "door_size": [
+   1.208,
+   2.203
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "RoofTile": [
+    0.5,
+    0.29,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.31,
+    0.24,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 956340
+ },
+ {
+  "file": "house_20.glb",
+  "seed": 6939,
+  "floors": 2,
+  "footprint": [
+   4.28,
+   5.65
+  ],
+  "bounds_min": [
+   -2.709,
+   -0.243,
+   -3.264
+  ],
+  "bounds_max": [
+   2.705,
+   6.029,
+   3.32
+  ],
+  "height": 6.029,
+  "triangles": 13014,
+  "front": "+X",
+  "door": [
+   2.007,
+   0.961,
+   -1.234
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.188,
+   2.407
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.85,
+    0.78,
+    0.63,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.44,
+    0.26,
+    0.2,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 507920
+ },
+ {
+  "file": "house_21.glb",
+  "seed": 93381,
+  "floors": 3,
+  "footprint": [
+   6.27,
+   8.68
+  ],
+  "bounds_min": [
+   -3.666,
+   -0.216,
+   -4.55
+  ],
+  "bounds_max": [
+   3.673,
+   8.786,
+   4.759
+  ],
+  "height": 8.786,
+  "triangles": 18351,
+  "front": "+X",
+  "door": [
+   2.995,
+   0.858,
+   3.155
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "manor",
+  "door_size": [
+   1.409,
+   2.147
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "RoofTile": [
+    0.5,
+    0.29,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 732536
+ },
+ {
+  "file": "house_22.glb",
+  "seed": 17584,
+  "floors": 4,
+  "footprint": [
+   5.74,
+   4.65
+  ],
+  "bounds_min": [
+   -3.15,
+   -0.228,
+   -2.538
+  ],
+  "bounds_max": [
+   3.14,
+   10.221,
+   2.537
+  ],
+  "height": 10.221,
+  "triangles": 13313,
+  "front": "+X",
+  "door": [
+   2.728,
+   0.901,
+   0.381
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.387,
+   2.258
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.29,
+    0.33,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 545036
+ },
+ {
+  "file": "house_23.glb",
+  "seed": 62551,
+  "floors": 4,
+  "footprint": [
+   7.09,
+   8.47
+  ],
+  "bounds_min": [
+   -4.775,
+   -0.246,
+   -5.333
+  ],
+  "bounds_max": [
+   4.767,
+   10.194,
+   5.335
+  ],
+  "height": 10.194,
+  "triangles": 24653,
+  "front": "+X",
+  "door": [
+   3.417,
+   0.974,
+   1.688
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "manor",
+  "door_size": [
+   1.227,
+   2.44
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.85,
+    0.78,
+    0.63,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "Slate": [
+    0.35,
+    0.36,
+    0.39,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 989632
+ },
+ {
+  "file": "house_24.glb",
+  "seed": 83677,
+  "floors": 2,
+  "footprint": [
+   4.07,
+   5.06
+  ],
+  "bounds_min": [
+   -2.768,
+   -0.235,
+   -3.102
+  ],
+  "bounds_max": [
+   2.756,
+   6.378,
+   3.107
+  ],
+  "height": 6.378,
+  "triangles": 11138,
+  "front": "+X",
+  "door": [
+   1.893,
+   0.929,
+   1.224
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.357,
+   2.329
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.78,
+    0.77,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 454424
+ },
+ {
+  "file": "house_25.glb",
+  "seed": 19590,
+  "floors": 2,
+  "footprint": [
+   6.32,
+   8.76
+  ],
+  "bounds_min": [
+   -3.792,
+   -0.21,
+   -4.784
+  ],
+  "bounds_max": [
+   3.683,
+   6.901,
+   4.777
+  ],
+  "height": 6.901,
+  "triangles": 27545,
+  "front": "+X",
+  "door": [
+   1.88,
+   0.841,
+   -3.249
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.395,
+   2.104
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": [
+   2.86,
+   1.15
+  ],
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "RoofTile": [
+    0.55,
+    0.31,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.31,
+    0.24,
+    1.0
+   ],
+   "WindowFrame": [
+    0.8,
+    0.77,
+    0.69,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 1122076
+ },
+ {
+  "file": "house_26.glb",
+  "seed": 78679,
+  "floors": 2,
+  "footprint": [
+   4.04,
+   5.26
+  ],
+  "bounds_min": [
+   -2.499,
+   -0.24,
+   -2.902
+  ],
+  "bounds_max": [
+   2.577,
+   6.512,
+   3.157
+  ],
+  "height": 6.512,
+  "triangles": 12343,
+  "front": "+X",
+  "door": [
+   1.877,
+   0.949,
+   0.1
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.243,
+   2.377
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.78,
+    0.77,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.55,
+    0.31,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 486508
+ },
+ {
+  "file": "house_27.glb",
+  "seed": 52121,
+  "floors": 3,
+  "footprint": [
+   4.56,
+   8.58
+  ],
+  "bounds_min": [
+   -3.284,
+   -0.242,
+   -5.101
+  ],
+  "bounds_max": [
+   3.27,
+   8.825,
+   5.111
+  ],
+  "height": 8.825,
+  "triangles": 21680,
+  "front": "+X",
+  "door": [
+   2.137,
+   0.961,
+   0.105
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.198,
+   2.405
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.31,
+    0.24,
+    1.0
+   ],
+   "WindowFrame": [
+    0.8,
+    0.77,
+    0.69,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 841764
+ },
+ {
+  "file": "house_28.glb",
+  "seed": 1557,
+  "floors": 5,
+  "footprint": [
+   6.53,
+   5.12
+  ],
+  "bounds_min": [
+   -3.712,
+   -0.204,
+   -3.193
+  ],
+  "bounds_max": [
+   3.734,
+   12.565,
+   3.204
+  ],
+  "height": 12.565,
+  "triangles": 20774,
+  "front": "+X",
+  "door": [
+   3.115,
+   0.847,
+   -0.448
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.275,
+   2.102
+  ],
+  "ivy": true,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.78,
+    0.77,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 878716
+ },
+ {
+  "file": "house_29.glb",
+  "seed": 80684,
+  "floors": 2,
+  "footprint": [
+   5.83,
+   8.32
+  ],
+  "bounds_min": [
+   -3.698,
+   -0.253,
+   -4.803
+  ],
+  "bounds_max": [
+   3.696,
+   6.891,
+   4.812
+  ],
+  "height": 6.891,
+  "triangles": 16548,
+  "front": "+X",
+  "door": [
+   2.766,
+   1.001,
+   1.304
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.017,
+   2.507
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.3,
+    0.28,
+    0.25,
+    1.0
+   ],
+   "Slate": [
+    0.32,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.31,
+    0.24,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 656428
+ },
+ {
+  "file": "house_30.glb",
+  "seed": 44653,
+  "floors": 5,
+  "footprint": [
+   5.66,
+   5.3
+  ],
+  "bounds_min": [
+   -4.311,
+   -0.231,
+   -3.944
+  ],
+  "bounds_max": [
+   4.298,
+   11.747,
+   3.945
+  ],
+  "height": 11.747,
+  "triangles": 26293,
+  "front": "+X",
+  "door": [
+   2.685,
+   0.915,
+   1.708
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.495,
+   2.292
+  ],
+  "ivy": true,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.85,
+    0.78,
+    0.63,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.32,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.28,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 1052056
+ },
+ {
+  "file": "house_31.glb",
+  "seed": 53061,
+  "floors": 4,
+  "footprint": [
+   6.3,
+   5.28
+  ],
+  "bounds_min": [
+   -4.409,
+   -0.215,
+   -3.718
+  ],
+  "bounds_max": [
+   4.412,
+   10.439,
+   3.413
+  ],
+  "height": 10.439,
+  "triangles": 17590,
+  "front": "+X",
+  "door": [
+   3.006,
+   0.853,
+   -0.523
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.081,
+   2.138
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.31,
+    0.24,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 720792
+ },
+ {
+  "file": "house_32.glb",
+  "seed": 13227,
+  "floors": 3,
+  "footprint": [
+   5.54,
+   8.02
+  ],
+  "bounds_min": [
+   -3.107,
+   -0.223,
+   -4.531
+  ],
+  "bounds_max": [
+   3.109,
+   9.025,
+   4.542
+  ],
+  "height": 9.025,
+  "triangles": 17216,
+  "front": "+X",
+  "door": [
+   2.626,
+   0.884,
+   0.893
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.43,
+   2.215
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 685660
+ },
+ {
+  "file": "house_33.glb",
+  "seed": 55469,
+  "floors": 2,
+  "footprint": [
+   4.2,
+   7.25
+  ],
+  "bounds_min": [
+   -2.828,
+   -0.228,
+   -4.214
+  ],
+  "bounds_max": [
+   2.82,
+   7.039,
+   4.223
+  ],
+  "height": 7.039,
+  "triangles": 17015,
+  "front": "+X",
+  "door": [
+   1.96,
+   0.902,
+   2.339
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.146,
+   2.26
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.72,
+    0.6,
+    0.47,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "RoofTile": [
+    0.5,
+    0.29,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 664596
+ },
+ {
+  "file": "house_34.glb",
+  "seed": 26540,
+  "floors": 3,
+  "footprint": [
+   5.59,
+   6.07
+  ],
+  "bounds_min": [
+   -3.627,
+   -0.238,
+   -3.68
+  ],
+  "bounds_max": [
+   3.614,
+   8.761,
+   3.69
+  ],
+  "height": 8.761,
+  "triangles": 15385,
+  "front": "+X",
+  "door": [
+   2.654,
+   0.942,
+   -0.944
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.103,
+   2.36
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 617188
+ },
+ {
+  "file": "house_35.glb",
+  "seed": 15488,
+  "floors": 5,
+  "footprint": [
+   6.67,
+   5.13
+  ],
+  "bounds_min": [
+   -3.607,
+   -0.226,
+   -2.933
+  ],
+  "bounds_max": [
+   3.696,
+   11.447,
+   3.053
+  ],
+  "height": 11.447,
+  "triangles": 18143,
+  "front": "+X",
+  "door": [
+   3.213,
+   0.901,
+   1.712
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.159,
+   2.255
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.44,
+    0.26,
+    0.2,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 708940
+ },
+ {
+  "file": "house_36.glb",
+  "seed": 91279,
+  "floors": 4,
+  "footprint": [
+   5.95,
+   4.93
+  ],
+  "bounds_min": [
+   -3.413,
+   -0.229,
+   -2.869
+  ],
+  "bounds_max": [
+   3.414,
+   10.239,
+   2.977
+  ],
+  "height": 10.239,
+  "triangles": 16416,
+  "front": "+X",
+  "door": [
+   2.815,
+   0.903,
+   0.773
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "merchant",
+  "door_size": [
+   1.399,
+   2.264
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.6,
+    0.37,
+    0.27,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.31,
+    0.24,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.5,
+    0.48,
+    0.45,
+    1.0
+   ]
+  },
+  "bytes": 637516
+ },
+ {
+  "file": "house_37.glb",
+  "seed": 1044,
+  "floors": 3,
+  "footprint": [
+   5.49,
+   9.93
+  ],
+  "bounds_min": [
+   -3.83,
+   -0.225,
+   -5.673
+  ],
+  "bounds_max": [
+   3.835,
+   8.985,
+   5.859
+  ],
+  "height": 8.985,
+  "triangles": 23130,
+  "front": "+X",
+  "door": [
+   2.593,
+   0.891,
+   1.963
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "hall",
+  "door_size": [
+   1.082,
+   2.232
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "RoofTile": [
+    0.55,
+    0.31,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.4,
+    0.19,
+    0.15,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 901320
+ },
+ {
+  "file": "house_38.glb",
+  "seed": 1628,
+  "floors": 2,
+  "footprint": [
+   4.38,
+   5.67
+  ],
+  "bounds_min": [
+   -2.904,
+   -0.209,
+   -3.351
+  ],
+  "bounds_max": [
+   2.903,
+   7.109,
+   3.389
+  ],
+  "height": 7.109,
+  "triangles": 13981,
+  "front": "+X",
+  "door": [
+   2.043,
+   0.842,
+   1.935
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.163,
+   2.102
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.3,
+    0.28,
+    0.25,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.29,
+    0.33,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 546272
+ },
+ {
+  "file": "house_39.glb",
+  "seed": 71352,
+  "floors": 2,
+  "footprint": [
+   4.71,
+   6.76
+  ],
+  "bounds_min": [
+   -3.017,
+   -0.216,
+   -3.895
+  ],
+  "bounds_max": [
+   3.008,
+   6.565,
+   3.897
+  ],
+  "height": 6.565,
+  "triangles": 14046,
+  "front": "+X",
+  "door": [
+   2.206,
+   0.856,
+   1.511
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.182,
+   2.144
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.3,
+    0.28,
+    0.25,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.28,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 561360
+ },
+ {
+  "file": "house_40.glb",
+  "seed": 48492,
+  "floors": 4,
+  "footprint": [
+   6.12,
+   8.82
+  ],
+  "bounds_min": [
+   -4.358,
+   -0.225,
+   -5.53
+  ],
+  "bounds_max": [
+   4.361,
+   10.74,
+   5.54
+  ],
+  "height": 10.74,
+  "triangles": 23176,
+  "front": "+X",
+  "door": [
+   2.914,
+   0.893,
+   2.002
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "manor",
+  "door_size": [
+   1.121,
+   2.236
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "RoofTile": [
+    0.44,
+    0.33,
+    0.26,
+    1.0
+   ],
+   "Door": [
+    0.27,
+    0.29,
+    0.33,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 930592
+ },
+ {
+  "file": "house_41.glb",
+  "seed": 55194,
+  "floors": 2,
+  "footprint": [
+   4.79,
+   5.38
+  ],
+  "bounds_min": [
+   -3.273,
+   -0.221,
+   -3.406
+  ],
+  "bounds_max": [
+   3.269,
+   6.567,
+   3.414
+  ],
+  "height": 6.567,
+  "triangles": 13093,
+  "front": "+X",
+  "door": [
+   2.27,
+   0.873,
+   -1.116
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "cottage",
+  "door_size": [
+   1.173,
+   2.189
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 511356
+ },
+ {
+  "file": "house_42.glb",
+  "seed": 78586,
+  "floors": 4,
+  "footprint": [
+   6.72,
+   8.27
+  ],
+  "bounds_min": [
+   -4.355,
+   -0.236,
+   -4.972
+  ],
+  "bounds_max": [
+   4.365,
+   9.623,
+   4.698
+  ],
+  "height": 9.623,
+  "triangles": 25386,
+  "front": "+X",
+  "door": [
+   3.205,
+   0.932,
+   2.29
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "manor",
+  "door_size": [
+   1.281,
+   2.336
+  ],
+  "ivy": true,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.72,
+    0.6,
+    0.47,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "RoofTile": [
+    0.44,
+    0.26,
+    0.2,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 1070440
+ },
+ {
+  "file": "house_43.glb",
+  "seed": 85794,
+  "floors": 3,
+  "footprint": [
+   6.06,
+   9.81
+  ],
+  "bounds_min": [
+   -3.979,
+   -0.238,
+   -5.667
+  ],
+  "bounds_max": [
+   3.971,
+   8.477,
+   5.676
+  ],
+  "height": 8.477,
+  "triangles": 24794,
+  "front": "+X",
+  "door": [
+   2.882,
+   0.946,
+   -0.002
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "hall",
+  "door_size": [
+   1.151,
+   2.368
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.8,
+    0.71,
+    0.55,
+    1.0
+   ],
+   "Timber": [
+    0.17,
+    0.13,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 965716
+ },
+ {
+  "file": "house_44.glb",
+  "seed": 27475,
+  "floors": 3,
+  "footprint": [
+   4.58,
+   8.04
+  ],
+  "bounds_min": [
+   -2.746,
+   -0.214,
+   -4.447
+  ],
+  "bounds_max": [
+   2.749,
+   8.64,
+   4.587
+  ],
+  "height": 8.64,
+  "triangles": 17837,
+  "front": "+X",
+  "door": [
+   2.159,
+   0.845,
+   2.032
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.06,
+   2.117
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.25,
+    0.27,
+    0.3,
+    1.0
+   ],
+   "Door": [
+    0.4,
+    0.19,
+    0.15,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 689124
+ },
+ {
+  "file": "house_45.glb",
+  "seed": 72002,
+  "floors": 2,
+  "footprint": [
+   5.02,
+   8.33
+  ],
+  "bounds_min": [
+   -3.355,
+   -0.214,
+   -4.832
+  ],
+  "bounds_max": [
+   3.357,
+   7.009,
+   4.842
+  ],
+  "height": 7.009,
+  "triangles": 21218,
+  "front": "+X",
+  "door": [
+   2.355,
+   0.843,
+   1.724
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.379,
+   2.114
+  ],
+  "ivy": true,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.78,
+    0.77,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.22,
+    0.16,
+    0.11,
+    1.0
+   ],
+   "Slate": [
+    0.29,
+    0.31,
+    0.35,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.36,
+    0.2,
+    0.16,
+    1.0
+   ],
+   "Stone": [
+    0.66,
+    0.59,
+    0.49,
+    1.0
+   ]
+  },
+  "bytes": 857284
+ },
+ {
+  "file": "house_46.glb",
+  "seed": 39502,
+  "floors": 2,
+  "footprint": [
+   5.77,
+   8.74
+  ],
+  "bounds_min": [
+   -3.523,
+   -0.246,
+   -4.86
+  ],
+  "bounds_max": [
+   3.528,
+   6.469,
+   4.992
+  ],
+  "height": 6.469,
+  "triangles": 18808,
+  "front": "+X",
+  "door": [
+   2.753,
+   0.976,
+   1.539
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.231,
+   2.443
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.85,
+    0.78,
+    0.63,
+    1.0
+   ],
+   "Timber": [
+    0.3,
+    0.28,
+    0.25,
+    1.0
+   ],
+   "Slate": [
+    0.32,
+    0.3,
+    0.34,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 738908
+ },
+ {
+  "file": "house_47.glb",
+  "seed": 47344,
+  "floors": 2,
+  "footprint": [
+   5.9,
+   7.58
+  ],
+  "bounds_min": [
+   -3.715,
+   -0.204,
+   -4.359
+  ],
+  "bounds_max": [
+   3.738,
+   6.634,
+   4.415
+  ],
+  "height": 6.634,
+  "triangles": 17124,
+  "front": "+X",
+  "door": [
+   2.807,
+   0.848,
+   -1.071
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "Slate",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.37,
+   2.104
+  ],
+  "ivy": false,
+  "flower_boxes": true,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.92,
+    0.89,
+    0.81,
+    1.0
+   ],
+   "Timber": [
+    0.3,
+    0.28,
+    0.25,
+    1.0
+   ],
+   "Slate": [
+    0.35,
+    0.36,
+    0.39,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 663776
+ },
+ {
+  "file": "house_48.glb",
+  "seed": 20323,
+  "floors": 2,
+  "footprint": [
+   6.7,
+   6.79
+  ],
+  "bounds_min": [
+   -3.99,
+   -0.245,
+   -3.811
+  ],
+  "bounds_max": [
+   3.913,
+   6.275,
+   3.813
+  ],
+  "height": 6.275,
+  "triangles": 28563,
+  "front": "+X",
+  "door": [
+   3.222,
+   0.972,
+   0.402
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass",
+   "Foliage"
+  ],
+  "archetype": "townhouse",
+  "door_size": [
+   1.115,
+   2.435
+  ],
+  "ivy": true,
+  "flower_boxes": false,
+  "wing": [
+   2.91,
+   1.27
+  ],
+  "colors": {
+   "Plaster": [
+    0.84,
+    0.75,
+    0.66,
+    1.0
+   ],
+   "Timber": [
+    0.29,
+    0.2,
+    0.13,
+    1.0
+   ],
+   "RoofTile": [
+    0.55,
+    0.31,
+    0.22,
+    1.0
+   ],
+   "Door": [
+    0.36,
+    0.23,
+    0.14,
+    1.0
+   ],
+   "WindowFrame": [
+    0.3,
+    0.35,
+    0.29,
+    1.0
+   ],
+   "Stone": [
+    0.62,
+    0.59,
+    0.53,
+    1.0
+   ]
+  },
+  "bytes": 1235404
+ },
+ {
+  "file": "house_49.glb",
+  "seed": 5421,
+  "floors": 3,
+  "footprint": [
+   5.04,
+   9.45
+  ],
+  "bounds_min": [
+   -3.279,
+   -0.209,
+   -5.007
+  ],
+  "bounds_max": [
+   3.287,
+   8.798,
+   5.334
+  ],
+  "height": 8.798,
+  "triangles": 18533,
+  "front": "+X",
+  "door": [
+   2.354,
+   0.843,
+   3.298
+  ],
+  "door_facing": "+X",
+  "materials": [
+   "Plaster",
+   "Timber",
+   "Stone",
+   "RoofTile",
+   "Door",
+   "WindowFrame",
+   "Glass"
+  ],
+  "archetype": "hall",
+  "door_size": [
+   1.201,
+   2.103
+  ],
+  "ivy": false,
+  "flower_boxes": false,
+  "wing": null,
+  "colors": {
+   "Plaster": [
+    0.89,
+    0.84,
+    0.72,
+    1.0
+   ],
+   "Timber": [
+    0.34,
+    0.25,
+    0.17,
+    1.0
+   ],
+   "RoofTile": [
+    0.44,
+    0.26,
+    0.2,
+    1.0
+   ],
+   "Door": [
+    0.28,
+    0.19,
+    0.12,
+    1.0
+   ],
+   "WindowFrame": [
+    0.24,
+    0.17,
+    0.11,
+    1.0
+   ],
+   "Stone": [
+    0.56,
+    0.54,
+    0.5,
+    1.0
+   ]
+  },
+  "bytes": 746288
+ }
+]

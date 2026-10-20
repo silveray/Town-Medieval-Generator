@@ -1,0 +1,419 @@
+{
+ "schema": 1,
+ "parts": [
+  {
+   "id": "door/arched_01",
+   "category": "door",
+   "file": "door/arched_01.glb",
+   "width": 1.252,
+   "height": 2.02,
+   "depth": 0.22,
+   "triangles": 112,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Round-arched plank door in a stone reveal",
+   "materials": [
+    "Stone",
+    "Door",
+    "Iron"
+   ],
+   "bounds_min": [
+    -0.626,
+    -1.01,
+    -0.22
+   ],
+   "bounds_max": [
+    0.626,
+    1.01,
+    0.0
+   ],
+   "mount": "flush"
+  },
+  {
+   "id": "door/arched_wide_01",
+   "category": "door",
+   "file": "door/arched_wide_01.glb",
+   "width": 1.609,
+   "height": 2.24,
+   "depth": 0.25,
+   "triangles": 118,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Wide, flatter-arched plank door (barn, tavern, workshop)",
+   "materials": [
+    "Stone",
+    "Door",
+    "Iron"
+   ],
+   "bounds_min": [
+    -0.805,
+    -1.12,
+    -0.25
+   ],
+   "bounds_max": [
+    0.805,
+    1.12,
+    0.0
+   ],
+   "mount": "flush"
+  },
+  {
+   "id": "door/plank_01",
+   "category": "door",
+   "file": "door/plank_01.glb",
+   "width": 1.324,
+   "height": 2.345,
+   "depth": 0.287,
+   "triangles": 122,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Ledged plank door (the house entrance door)",
+   "materials": [
+    "Door"
+   ],
+   "bounds_min": [
+    -0.662,
+    -1.173,
+    -0.287
+   ],
+   "bounds_max": [
+    0.662,
+    1.173,
+    0.0
+   ],
+   "mount": "flush"
+  },
+  {
+   "id": "door/porch_01",
+   "category": "door",
+   "file": "door/porch_01.glb",
+   "width": 1.006,
+   "height": 1.989,
+   "depth": 1.037,
+   "triangles": 386,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Plank door in a stone porch with a tiled canopy",
+   "materials": [
+    "Stone",
+    "RoofTile",
+    "Door"
+   ],
+   "bounds_min": [
+    -0.693,
+    -1.132,
+    -0.02
+   ],
+   "bounds_max": [
+    0.632,
+    1.604,
+    1.017
+   ],
+   "mount": "surface"
+  },
+  {
+   "id": "door/porch_02",
+   "category": "door",
+   "file": "door/porch_02.glb",
+   "width": 1.143,
+   "height": 1.88,
+   "depth": 1.188,
+   "triangles": 480,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Wide plank door in a stone porch with a tiled canopy",
+   "materials": [
+    "Stone",
+    "RoofTile",
+    "Door"
+   ],
+   "bounds_min": [
+    -0.756,
+    -1.082,
+    -0.02
+   ],
+   "bounds_max": [
+    0.752,
+    1.55,
+    1.168
+   ],
+   "mount": "surface"
+  },
+  {
+   "id": "landmark/tower_round_01",
+   "category": "landmark",
+   "file": "landmark/tower_round_01.glb",
+   "width": 5.86,
+   "height": 13.185,
+   "depth": 5.86,
+   "triangles": 14450,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Round watchtower with a timber-framed upper storey",
+   "materials": [
+    "Plaster",
+    "Timber",
+    "Stone",
+    "Slate",
+    "WindowFrame",
+    "Glass",
+    "Iron",
+    "Foliage"
+   ],
+   "bounds_min": [
+    -3.016,
+    -0.15,
+    -3.118
+   ],
+   "bounds_max": [
+    2.844,
+    13.035,
+    2.742
+   ]
+  },
+  {
+   "id": "landmark/tower_square_01",
+   "category": "landmark",
+   "file": "landmark/tower_square_01.glb",
+   "width": 5.674,
+   "height": 12.162,
+   "depth": 5.081,
+   "triangles": 23257,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Square tower house",
+   "materials": [
+    "Plaster",
+    "Timber",
+    "Stone",
+    "RoofTile",
+    "WindowFrame",
+    "Glass",
+    "Iron",
+    "Foliage"
+   ],
+   "bounds_min": [
+    -2.754,
+    -0.216,
+    -2.471
+   ],
+   "bounds_max": [
+    2.92,
+    11.946,
+    2.61
+   ]
+  },
+  {
+   "id": "landmark/windmill_01",
+   "category": "landmark",
+   "file": "landmark/windmill_01.glb",
+   "width": 14.212,
+   "height": 15.763,
+   "depth": 8.701,
+   "triangles": 24911,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Stone tower windmill with sails",
+   "materials": [
+    "Plaster",
+    "Timber",
+    "Stone",
+    "Thatch",
+    "Door",
+    "Iron",
+    "Foliage"
+   ],
+   "bounds_min": [
+    -7.113,
+    -0.0,
+    -5.214
+   ],
+   "bounds_max": [
+    7.099,
+    15.763,
+    3.487
+   ]
+  },
+  {
+   "id": "window/casement_01",
+   "category": "window",
+   "file": "window/casement_01.glb",
+   "width": 0.651,
+   "height": 0.941,
+   "depth": 0.16,
+   "triangles": 78,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Six-light timber casement",
+   "materials": [
+    "WindowFrame",
+    "Glass"
+   ],
+   "bounds_min": [
+    -0.405,
+    -0.55,
+    -0.06
+   ],
+   "bounds_max": [
+    0.405,
+    0.55,
+    0.1
+   ],
+   "mount": "flush"
+  },
+  {
+   "id": "window/casement_flowers_01",
+   "category": "window",
+   "file": "window/casement_flowers_01.glb",
+   "width": 0.645,
+   "height": 0.941,
+   "depth": 0.348,
+   "triangles": 142,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Timber casement with flower box",
+   "materials": [
+    "WindowFrame",
+    "Glass",
+    "Foliage"
+   ],
+   "bounds_min": [
+    -0.46,
+    -0.734,
+    -0.06
+   ],
+   "bounds_max": [
+    0.403,
+    0.55,
+    0.288
+   ],
+   "mount": "flush"
+  },
+  {
+   "id": "window/casement_wide_01",
+   "category": "window",
+   "file": "window/casement_wide_01.glb",
+   "width": 1.334,
+   "height": 0.941,
+   "depth": 0.16,
+   "triangles": 96,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Wide multi-light timber window (shop / hall front)",
+   "materials": [
+    "WindowFrame",
+    "Glass"
+   ],
+   "bounds_min": [
+    -0.747,
+    -0.55,
+    -0.06
+   ],
+   "bounds_max": [
+    0.747,
+    0.55,
+    0.1
+   ],
+   "mount": "flush"
+  },
+  {
+   "id": "window/lancet_01",
+   "category": "window",
+   "file": "window/lancet_01.glb",
+   "width": 0.496,
+   "height": 2.241,
+   "depth": 0.2,
+   "triangles": 137,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Gothic lancet window (pointed arch)",
+   "materials": [
+    "Stone",
+    "Glass"
+   ],
+   "bounds_min": [
+    -0.248,
+    -1.121,
+    -0.2
+   ],
+   "bounds_max": [
+    0.248,
+    1.121,
+    0.0
+   ],
+   "mount": "flush"
+  },
+  {
+   "id": "window/lattice_01",
+   "category": "window",
+   "file": "window/lattice_01.glb",
+   "width": 0.647,
+   "height": 0.941,
+   "depth": 0.16,
+   "triangles": 116,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Small-paned (lattice) timber window",
+   "materials": [
+    "WindowFrame",
+    "Glass"
+   ],
+   "bounds_min": [
+    -0.404,
+    -0.55,
+    -0.06
+   ],
+   "bounds_max": [
+    0.404,
+    0.55,
+    0.1
+   ],
+   "mount": "flush"
+  },
+  {
+   "id": "window/oriel_01",
+   "category": "window",
+   "file": "window/oriel_01.glb",
+   "width": 1.257,
+   "height": 0.941,
+   "depth": 1.068,
+   "triangles": 566,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Wide oriel (bay) window with lean-to roof and flower box",
+   "materials": [
+    "Plaster",
+    "RoofTile",
+    "WindowFrame",
+    "Glass",
+    "Foliage"
+   ],
+   "bounds_min": [
+    -0.885,
+    -0.734,
+    -0.02
+   ],
+   "bounds_max": [
+    0.854,
+    1.248,
+    1.048
+   ],
+   "mount": "surface"
+  },
+  {
+   "id": "window/oriel_02",
+   "category": "window",
+   "file": "window/oriel_02.glb",
+   "width": 0.487,
+   "height": 0.941,
+   "depth": 0.872,
+   "triangles": 240,
+   "source": "IRCSS French Houses (MIT)",
+   "label": "Narrow stone oriel window",
+   "materials": [
+    "Stone",
+    "RoofTile",
+    "WindowFrame",
+    "Glass",
+    "Foliage"
+   ],
+   "bounds_min": [
+    -0.357,
+    -0.734,
+    -0.02
+   ],
+   "bounds_max": [
+    0.391,
+    0.913,
+    0.852
+   ],
+   "mount": "surface"
+  }
+ ]
+}

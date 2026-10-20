@@ -1,0 +1,12 @@
+[package]
+name = "mde_town"
+description = "Procedural medieval town / village layout generator (wards, walls, streets, building lots)."
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
+mde_core.workspace = true
+
+[dev-dependencies]
+serde_json.workspace = true

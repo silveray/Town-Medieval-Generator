@@ -1,0 +1,13 @@
+[package]
+name = "mde_nav"
+description = "Walkable navigation graph for towns and dwelling interiors, with A* path finding for NPCs."
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
+mde_core.workspace = true
+serde.workspace = true
+
+[dev-dependencies]
+serde_json.workspace = true

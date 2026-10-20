@@ -1,0 +1,47 @@
+[package]
+name = "mde_app"
+description = "Bevy viewer / editor for the Midearth town and dwelling generators."
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[[bin]]
+name = "midearth"
+path = "src/main.rs"
+
+[features]
+default = []
+# Native Wayland support on Linux (X11 is always on).
+wayland = ["bevy/wayland"]
+
+[dependencies]
+mde_core.workspace = true
+mde_town = { path = "../mde_town" }
+mde_dwelling = { path = "../mde_dwelling" }
+mde_mesh = { path = "../mde_mesh" }
+mde_nav = { path = "../mde_nav" }
+serde_json.workspace = true
+bevy_egui = "0.43.1"
+
+[dependencies.bevy]
+version = "0.20.0"
+default-features = false
+# Explicit list: avoids audio (ALSA) and gamepads (udev) so it builds without extra system packages.
+features = [
+    "default_app",
+    "3d_bevy_render",
+    "scene",
+    "picking",
+    "mesh_picking",
+    "ui_api",
+    "ui_bevy_render",
+    "std",
+    "bevy_winit",
+    "default_font",
+    "multi_threaded",
+    "x11",
+    "sysinfo_plugin",
+    "tonemapping_luts",
+    "png",
+    "bevy_gltf",
+]

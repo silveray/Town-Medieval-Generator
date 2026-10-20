@@ -1,0 +1,12 @@
+[package]
+name = "mde_dwelling"
+description = "Procedural dwelling generator: multi-storey floor plans with rooms, doors, windows, stairs and furniture."
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
+mde_core.workspace = true
+
+[dev-dependencies]
+serde_json.workspace = true
