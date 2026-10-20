@@ -64,8 +64,6 @@ a cross gable on the front, and teal or terracotta roofs:
 
 ![Generator 1 villages and yards](generator-1/docs/images/audit_town.jpg)
 
-![Generator 1 village close up](generator-1/docs/images/yards.jpg)
-
 **The 50 ready-made village houses** (both generators, from IRCSS's French Houses):
 
 ![All 50 houses](generator-1/docs/images/french_houses_contact.jpg)
